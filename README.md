@@ -12,4 +12,4 @@
   
   ## manifest.json sender id is wrong ? 
   
-  6.if u see browser console saying manifest.json sender id is wrong.. in console message u will see what is correct sender id
+  6. if u see browser console saying manifest.json sender id is wrong.. in console message u will see what is correct sender id
