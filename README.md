@@ -8,8 +8,12 @@
   4. repleace them in firebaseinit.js
   
   ## How to get Firebase Public Vpaid Key id ?
-  5. Project Overview gearicon > Project Setting > Cloud Messaging > Web Push certificates > Key Pair (Generate and copy keypair)
+  5. Project Overview gear icon > Project Setting > Cloud Messaging > Web Push certificates > Key Pair (Generate and copy keypair)
   
   ## manifest.json sender id is wrong ? 
   
   6. if u see browser console saying manifest.json sender id is wrong.. in console message u will see what is correct sender id
+  
+  ## where i get serverKey to send notification ?
+  
+  7.  Project Overview gear icon > Project Setting > Cloud Messaging > Legacy server key
